@@ -25,7 +25,7 @@ Route::get('/', function () {
 Route::get('/abot', function () {
     return view('abot',[
         "tittle" => "Abot",
-        "name" => "Reviandi & Adi 3 N",
+        "name" => "Reviandi",
         "email" => "cok@yahoo.com",
         "image" => "6.png"
     ]);
