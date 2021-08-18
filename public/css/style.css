@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/mg.jpg) ;
+    background-size: cover;
+    color:yellow;
+}
+.menu{
+    color:white;
+    font-weight: bold;
+}
